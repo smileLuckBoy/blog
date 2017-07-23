@@ -59,7 +59,7 @@ category_map:
 
 tag_map:
   心情: emotion
-  多线程: thread
+  Java并发编程: thread
   HTTP: http
   Python: python
   collection: collection
