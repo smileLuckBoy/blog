@@ -93,6 +93,8 @@ deploy:
   # branch: master
   # type: git
   repo:
-      github: https://github.com/smileLuckBoy/smileLuckBoy.github.io.git,master
+      #github: https://github.com/smileLuckBoy/smileLuckBoy.github.io.git,master
+      github: git@github.com:smileLuckBoy/smileLuckBoy.github.io.git,master
       # coding: https://git.coding.net/smileLuckBoy/myBlog.git,master
-      coding: https://git.coding.net/smileLuckBoy/smileLuckBoy.git,coding-pages
+      #coding: https://git.coding.net/smileLuckBoy/smileLuckBoy.git,coding-pages
+      coding: git@git.coding.net:smileLuckBoy/smileLuckBoy.git,coding-pages
