@@ -64,6 +64,7 @@ tag_map:
   Python: python
   collection: collection
   深入浅出: 深入浅出
+  坑: 坑记录
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

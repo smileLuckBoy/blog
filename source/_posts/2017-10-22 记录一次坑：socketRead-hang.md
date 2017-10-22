@@ -2,8 +2,9 @@
 title: 记录一次坑：socketRead hang
 toc: true
 date: 2017-10-22 21:10:36
-tags:
-categories:
+tags: 坑
+
+categories: JAVA
 ---
 
 最近在项目中，用到了大量的多线程中使用httpClient的场景，上线后发现线程池线程数量越来越少,通过jstack导出堆栈信息，发现大量的如下信息：
